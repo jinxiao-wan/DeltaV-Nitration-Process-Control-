@@ -1,0 +1,23 @@
+{
+  "status": "unreconciled source inventories",
+  "records": [
+    {
+      "printed_page": 12,
+      "AI": 49,
+      "AO": 4,
+      "DI": 5,
+      "DO": 10,
+      "total": 68
+    },
+    {
+      "printed_page": 13,
+      "table": "3.1",
+      "area": 301,
+      "AI": 42,
+      "AO": 30,
+      "DI": 3,
+      "DO": 3,
+      "total": 78
+    }
+  ]
+}

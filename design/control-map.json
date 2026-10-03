@@ -1,0 +1,16 @@
+{
+  "kind": "reconstructed conceptual mapping; not DeltaV import format",
+  "loops": [
+    {
+      "master": "temperature PI",
+      "slave": "feed A flow PI",
+      "output": "feed A valve"
+    },
+    {
+      "reference": "measured feed A",
+      "operation": "multiply by ratio",
+      "slave": "feed B flow PI",
+      "output": "feed B valve"
+    }
+  ]
+}
