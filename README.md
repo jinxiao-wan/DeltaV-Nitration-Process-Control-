@@ -9,6 +9,14 @@ An illustrated reconstruction of a DeltaV control-system design, combining the o
 
 > The demo link becomes available after GitHub Pages is enabled with **GitHub Actions** as its source. See [deployment instructions](docs/deployment.md).
 
+## Browser preview
+
+![Reconstructed browser demonstrator](docs/previews/browser-demo.jpg)
+
+![Running, signal-loss trip and reset to idle](docs/previews/trip-reset.gif)
+
+The 2026 browser demonstrator: running → signal-loss trip → restored signal and reset to idle. A separate start is required after reset.
+
 ## Original project
 
 ![Original process overview](web/assets/process-overview.jpg)
