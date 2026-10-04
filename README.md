@@ -7,7 +7,7 @@ An illustrated reconstruction of a DeltaV control-system design, combining the o
 
 [Open the browser demo](https://jinxiao-wan.github.io/DeltaV-Nitration-Process-Control-/) · [Design](docs/control-design.md) · [Hardware and I/O](docs/hardware-and-io.md) · [Development process](docs/development-process.md) · [Source audit](docs/source-audit.md)
 
-> The demo link becomes available after GitHub Pages is enabled with **GitHub Actions** as its source. See [deployment instructions](docs/deployment.md).
+> **Live on GitHub Pages.** Open the browser demo above to explore the reconstructed control system.
 
 ## Browser preview
 
